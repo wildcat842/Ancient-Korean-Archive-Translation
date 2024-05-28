@@ -1,5 +1,3 @@
-setwd("C:\\Users\\Seonyeong\\Dropbox\\020. Research Project\\2024. 고전 인공지능 번역\\ACL_silok_GIT")
-getwd()
 library(tidyverse)
 library(sacRebleu)
 library(sentencepiece)
